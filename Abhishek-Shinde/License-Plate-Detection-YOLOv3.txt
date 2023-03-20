@@ -1,0 +1,8 @@
+Google Collab Notebook Links:
+
+1) Pretrained YOLOv3 Model:
+https://colab.research.google.com/drive/1stX-oy8NSx0ZxAwVVV-bArVPHyZK3Zm2?usp=sharing
+
+2) Custom trained YOLOv3 Model (trained on dataset of 500 images):
+Object Detection + Image Preprocessing + OCR:
+https://colab.research.google.com/drive/1I8QoTxAmjRStvKOBQlPGoXO4SKktt7g8?usp=sharing
